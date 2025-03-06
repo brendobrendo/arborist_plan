@@ -149,3 +149,37 @@ I've condensed your presentation to five key slides while keeping it impactful a
 | **Call to action encouraging debate on additional small changes** | Kept, but condensed into a single discussion prompt at the end. |
 
 ---
+# **Town Ordinance: Residential Hedge & Arboriculture Standards**  
+
+## **§1: Mandatory Arborist Proficiency for Homeowners**  
+1. All **homeowners** shall be required to demonstrate proficiency in arboriculture by passing a **Certified Pruning & Shaping Examination**, administered by the Town Arborist Office.  
+2. The examination shall include a practical assessment of tree trimming skills, ensuring the ability to maintain **uniform, aesthetically pleasing growth patterns** in accordance with town landscaping standards.  
+3. Homeowners who successfully pass the examination shall be issued a **Residential Arborist Certification (RAC)**, which must be renewed every **five (5) years**.  
+
+**Exemption:** A homeowner may obtain a **Golden Exemption Card** in lieu of certification by remitting an **annual fee** to the Town Arborist Office.  
+
+---
+
+## **§2: Mandatory Perimeter Hedge Enclosures**  
+1. Every **residential property** shall be enclosed by a **continuously maintained hedge barrier** of a height no less than **ten (10) feet**, ensuring complete **visual privacy from the street** while allowing visibility of rooftops.  
+2. Required hedge species shall include, but are not limited to:  
+   - **Cherry Laurel (*Prunus laurocerasus*)** – Dense, evergreen coverage.  
+   - **Thuja (*Arborvitae*)** – Tall, conical, and naturally structured for uniformity.  
+3. Hedges must be **neatly trimmed, maintaining sharp edges, flat sides, and a uniform vertical profile** consistent with surrounding properties.  
+
+---
+
+## **§3: Hedge Maintenance Responsibilities**  
+1. All **property owners or their designated representatives** shall be responsible for the **regular trimming and maintenance** of required hedges.  
+2. Hedge maintenance shall include:  
+   - Trimming at least **once per quarter** to maintain height, density, and shape.  
+   - Removing dead, diseased, or overgrown sections to preserve **structural integrity**.  
+   - Ensuring that hedges do not encroach upon sidewalks, public pathways, or neighboring properties.  
+
+Failure to comply with hedge maintenance requirements may result in **municipal fines** or **corrective action** by the Town Landscaping Authority.  
+
+---
+
+## **§4: Exemptions for Rental Properties**  
+1. **Tenants of rental properties** shall be **exempt** from the arborist certification requirement under **§1**.  
+2. The responsibility for hedge maintenance on rental properties shall **default to the property owner or landlord**, who must ensure compliance with **§2 and §3**.  
